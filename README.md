@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://mhrp.my.id" target="_blank"><img src="public/img/Mh_ProCode.png" width="400" alt="MHRP Logo"></a></p>
+<p align="center"><a href="https://mhrp.my.id" target="_blank"><img src="https://drive.google.com/file/d/1zowQOi2AO_UqhEajx9Xb_QsfxtzW_FAt/view?usp=drive_link" width="400" alt="MHRP Logo"></a></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
